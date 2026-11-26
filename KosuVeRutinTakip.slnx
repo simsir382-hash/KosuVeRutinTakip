@@ -1,3 +1,6 @@
 <Solution>
+  <Folder Name="/Çözüm Öğeleri/">
+    <File Path="README.md" />
+  </Folder>
   <Project Path="KosuVeRutinTakip/KosuVeRutinTakip.csproj" Id="6942bf10-3d93-485c-ac3d-e7dbf8778b4c" />
 </Solution>
